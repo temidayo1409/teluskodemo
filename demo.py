@@ -10,3 +10,7 @@ def sort(nums):
 nums=[5,3,8,6,7,2]
 sort(nums)
 print(nums)
+
+#adding bella's comment now
+
+print('bella was right!')
